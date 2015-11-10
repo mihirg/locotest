@@ -1,0 +1,25 @@
+{
+  "name": "locotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "locomotive": "0.4.2",
+    "express": "3.2.4",
+    "ejs": "0.8.4",
+    "connect": "2.7.9",
+    "coffee-script": "1.10.0",
+    "bootable" : "0.2.4",
+    "bootable-environment" : "0.2.0",
+    "node-sass" : "3.3.3",
+    "connect-assets" : "5.0.1"
+
+  }
+
+}
